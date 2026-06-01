@@ -1,0 +1,31 @@
+﻿/*.color1 {
+    #e7eed0
+}
+.color2 {
+    #cad1c3
+}
+.color3 {
+    #948e99
+}
+.color4 {
+    #51425f
+}
+.color5 {
+    #2e1437}
+*/
+
+.forma-contatos {
+    background: #ffffff;
+    color: #000000;
+    border: 1px solid #dbe4f0;
+    border-radius: 16px;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
+    padding: 1.5rem;
+}
+
+.contato-m {
+    background: #f3f4e5;
+    font-family: 'Lucida Sans Typewriter';
+    text-align: center;
+    padding: 100px;
+}

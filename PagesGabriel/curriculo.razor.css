@@ -1,5 +1,27 @@
 ﻿section {
-    justify-items: center;
-    align-content: center;
-    padding: 4px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    justify-content: center;
+    display: flex;
+}
+
+h4 {
+    margin: 5px;
+}
+
+#voltar { 
+    border-radius: 20%;
+    margin: 10px;
+    background-color: aliceblue;
+    max-height: 41px;
+}
+
+#voltar a h3{ 
+    text-decoration: none;
+    color: black;
 }
