@@ -12,3 +12,14 @@
     padding: 2rem;
     box-shadow: 4px 12px 24px rgba(0, 0, 0, 0.4);
 }
+
+a {
+    color: #f4f4f4;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: underline;
+}
