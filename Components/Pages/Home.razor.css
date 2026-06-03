@@ -1,0 +1,41 @@
+.header {
+    color: white;
+    height: 100px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background: #4169e1;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.links {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+}
+
+.link-button {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+.link-button:hover {
+    background-color: #0056b3;
+    font-size: 20.3px;
+}
